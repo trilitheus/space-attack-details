@@ -10,7 +10,7 @@ Only one Codex chat is visible in the supplied conversation. No other chats have
 
 - Game source: [trilitheus/space-attack](https://github.com/trilitheus/space-attack)
 - Published game: [Space Attack](https://trilitheus.github.io/space-attack/)
-- This history: [README.md](https://github.com/trilitheus/space-attack-prompt-history/blob/main/README.md)
+- This history: [README.md](https://github.com/trilitheus/space-attack-details/blob/main/README.md)
 
 ## Codex Chat 1
 
