@@ -12,6 +12,20 @@ Only one Codex chat is visible in the supplied conversation. No other chats have
 - Published game: [Space Attack](https://trilitheus.github.io/space-attack/)
 - This history: [README.md](https://github.com/trilitheus/space-attack-details/blob/main/README.md)
 
+## Game screenshots
+
+### Start screen and difficulty selection
+
+![Space Attack start screen with Medium difficulty selected](screenshots/space-attack-start-screen.png)
+
+### Level 10: final boss battle
+
+![The alien overlord with 2 of 24 health remaining on Easy difficulty](screenshots/space-attack-final-boss-battle.png)
+
+### Victory: Earth is saved
+
+![Victory screen after completing all 10 levels on Easy difficulty](screenshots/space-attack-victory-screen.png)
+
 ## Codex Chat 1
 
 ### 1. Initial technology direction
