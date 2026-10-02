@@ -6,8 +6,9 @@ This document records every user-authored task prompt visible in the Space Attac
 
 1. **Codex Chat 1 — Space Attack: implementation, revisions, deployment, and prompt-history export.** All 22 prompts below belong to this single chat, in their original order.
 
-Only one Codex chat is visible in the supplied conversation. No other chats have been inferred, merged, or reconstructed. Individual message timestamps were not supplied, so numbered order is used instead. Automatically supplied environment metadata and hidden system/developer instructions are outside this user prompt history.
+Only one Codex chat is visible in the supplied conversation. No other chats have been inferred, merged, or reconstructed. The original prompt-history document used numbered order because timestamps were not supplied in its source context. A subsequent export from the saved session includes the original UTC timestamps and verbatim assistant messages. Automatically supplied environment metadata and hidden system/developer instructions are outside this user prompt history.
 
+- Codex conversation export: [actual game-build messages](codex-conversation-export.md)
 - Game source: [trilitheus/space-attack](https://github.com/trilitheus/space-attack)
 - Published game: [Space Attack](https://trilitheus.github.io/space-attack/)
 - This history: [prompt-history.md](https://github.com/trilitheus/space-attack-details/blob/main/prompt-history.md)
