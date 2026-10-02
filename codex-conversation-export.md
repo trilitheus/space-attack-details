@@ -4,6 +4,7 @@
 
 Actual user and assistant text exported from the locally saved Codex session, in chronological order. This is a text export, not a native Codex Share URL or a reconstructed summary. Message text is preserved verbatim inside the blocks below; timestamps are UTC from the saved session.
 
+- [Download the JSON export](codex-conversation-export.json)
 - Session title: Build a TypeScript Galaxian clone
 - Session ID: `01a0fbfc-48ac-7f13-ad79-ea98ce01247f`
 - Scope: the initial game request through the final canvas-size commit and successful deployment (`264470d`), on 2 October 2026.
